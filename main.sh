@@ -65,7 +65,7 @@ if [[ $pil == 6 ]]; then
      python2 matematika.py
 fi
 if [[ $pil == 7 ]]; then
-     sh report.sh
+     python2 report.py
 fi
 
 if [[ $pil == 8 ]]; then
