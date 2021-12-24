@@ -72,9 +72,25 @@ Nomor : You Phone Number
 ## Note
 > **it is forbidden to recode this script, if you are cought recode script, you will get spam from the script creators, so if you want to recoderecode, have permission first**
 ```shell script
-## https://wa.me/6287708773367
+https://wa.me/6287708773367
 ```
 > **This is script generator number, namely ©AmmarBN**
+
+## Features
+```shell script
+$ **CCTV IP**
+$ **Spam SMS**
+$ **Symbol Font**
+$ **18+**
+$ **Kinemaster**
+$ **Matematika**
+$ **Report**
+$ **Art Menu**
+$ **Donasi**
+$ **install Hollywood & cmatrix**
+$ **Bot whatsapp Number**
+$ **Google Translate**
+```
 
 ## Done
 THX To ©AmmarBN
