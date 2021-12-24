@@ -78,29 +78,29 @@ https://wa.me/6287708773367
 
 ## Features
 
-> **CCTV IP
+> **•CCTV IP**
 
-> **Spam SMS
+> **•Spam SMS**
 
-> **Symbol Font
+> **•Symbol Font**
 
-> **18+
+> **•18+**
 
-> **Kinemaster
+> **•Kinemaster**
 
-> **Matematika
+> **•Matematika**
 
-> **Report
+> **•Report**
 
-> **Art Menu
+> **•Art Menu**
 
-> **Donasi
+> **•Donasi**
 
-> **install Hollywood & cmatrix
+> **•install Hollywood & cmatrix**
 
-> **Bot whatsapp Number
+> **•Bot whatsapp Number**
 
-> **Google Translate
+> **•Google Translate**
 
 
 ## Done
