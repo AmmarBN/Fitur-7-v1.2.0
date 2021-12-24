@@ -1,5 +1,5 @@
 ## Fitur-7-v2.0
-use wisely
+#•use wisely
 
 ## Instalation Project
 ```shell script
@@ -51,6 +51,25 @@ Password : subscribe
 ```shell script
 Nomor : You Phone Number
 ```
+
+## Creator/Owner
+```shell script
+##~>AmmarBN
+```
+
+```shell script
+##~>SpeedX
+```
+
+```shell script
+##~>Nurutomo
+```
+
+```shell script
+##~>Ariffb
+```
+
+## Note
 
 ## Done
 THX To ©AmmarBN
