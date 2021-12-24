@@ -77,20 +77,20 @@ https://wa.me/6287708773367
 > **This is script generator number, namely ©AmmarBN**
 
 ## Features
-```shell script
-$ **CCTV IP**
-$ **Spam SMS**
-$ **Symbol Font**
-$ **18+**
-$ **Kinemaster**
-$ **Matematika**
-$ **Report**
-$ **Art Menu**
-$ **Donasi**
-$ **install Hollywood & cmatrix**
-$ **Bot whatsapp Number**
-$ **Google Translate**
-```
+
+> **CCTV IP
+Spam SMS
+Symbol Font
+18+
+Kinemaster
+Matematika
+Report
+Art Menu
+Donasi
+install Hollywood & cmatrix
+Bot whatsapp Number
+Google Translate**
+
 
 ## Done
 THX To ©AmmarBN
