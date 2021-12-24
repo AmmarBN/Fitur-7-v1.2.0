@@ -1,5 +1,5 @@
 ## Fitur-7-v2.0
-#•use wisely
+> **use wisely
 
 ## Instalation Project
 ```shell script
@@ -70,6 +70,11 @@ Nomor : You Phone Number
 ```
 
 ## Note
+> **it is forbidden to recode this script, if you are cought recode script, you will get spam from the script creators, so if you want to recoderecode, have permission first
+```shell script
+https://wa.me/6287708773367
+```
+> **This is script generator number, namely ©AmmarBN
 
 ## Done
 THX To ©AmmarBN
