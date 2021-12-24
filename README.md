@@ -26,6 +26,10 @@
 -pip install requests
 ```
 
+```shell script
+-pkg install neofetch
+```
+
 ## Start Project
 ```shell script
 -git clone https://github.com/AmmarBN/Fitur-7-v1.2.0
