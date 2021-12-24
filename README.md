@@ -2,7 +2,9 @@
 use wisely
 
 # Instalation Project
+```shell script
 -pkg update && pkg upgrade
+```
 
 -pkg install git
 
