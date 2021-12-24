@@ -1,4 +1,4 @@
-## Fitur-7-v2.0
+## Fitur-7-v1.2.0
 > **use wisely**
 
 ## Instalation Project
