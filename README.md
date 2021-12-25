@@ -108,9 +108,24 @@ https://wa.me/6287708773367
 
 ## Contributors
 
-[AmmarBN]
-(https://github.com/AmmarBN.png?
-size=100)](https://github.com/AmmarBN)
+---------
+
+<a href="https://guthub.com/AmmarBN"><img src="https://guthub.com/AmmarBN/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![SpeedX](https://github.com/SpeedX.png?size=100)](https://github.com/SpeedX) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
