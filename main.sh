@@ -104,5 +104,5 @@ fi
 if [[ $pil == 13 ]]; then
      git clone https://github.com/AmmarBN/multi30
      cd multi30
-     python multi.py
+     python2 multi.py
 fi
