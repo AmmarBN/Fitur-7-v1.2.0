@@ -16,7 +16,7 @@
 > **use wisely**
 
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AmmarBN"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nurutomo/wabot-aq?label=Watchers&color=blue&style=flat-square"></a>
@@ -187,5 +187,5 @@ Nomor : You Phone Number
 THX To ©AmmarBN
 
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AmmarBN"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
