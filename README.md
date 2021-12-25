@@ -108,11 +108,13 @@ https://wa.me/6287708773367
 
 ## Contributors
 
-<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb]
-(https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
+[AmmarBN]
+(https://github.com/AmmarBN.png?
+size=100)](https://github.com/AmmarBN)
 
-----|----|----|----
-----|----|----|----
+
+
+
 
 ## Done
 THX To ©AmmarBN
