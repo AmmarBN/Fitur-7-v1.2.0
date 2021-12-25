@@ -1,10 +1,28 @@
+</p>
+
+<p align="center">
+
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Fitur 7 V1.2.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+
+
+
+
+
 ## Fitur-7-v1.2.0
+
 > **use wisely**
 
 <p align="center">
 <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nurutomo/wabot-aq?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AmmarBN/Fitur-7-v1.2.0?color=red&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nurutomo/wabot-aq?color=red&style=flat-square"></a>
 ## Instalation Project
 ```shell script
 -pkg update && pkg upgrade
@@ -59,6 +77,15 @@ Password : subscribe
 ```shell script
 Nomor : You Phone Number
 ```
+
+## Matematika Login
+
+> **Username : AmmarBN**
+
+> **Password : subscribe**
+
+
+
 
 ## Creator/Owner
 ```shell script
