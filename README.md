@@ -25,6 +25,7 @@
 <a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nurutomo/wabot-aq?color=red&style=flat-square"></a>
 ![](https://img.shields.io/badge/python-2-blue.svg)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
+[![Join the Termux discord server](https://img.shields.io/discord/641256914684084234.svg?label=&logo=discord&logoColor=ffffff&color=5865F2)](https://discord.gg/HXpF69X)
 ## Instalation Project
 ```shell script
 -pkg update && pkg upgrade
