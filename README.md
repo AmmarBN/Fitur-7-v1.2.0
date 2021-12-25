@@ -26,6 +26,10 @@
 ![](https://img.shields.io/badge/python-2-blue.svg)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 [![Join the Termux discord server](https://img.shields.io/discord/641256914684084234.svg?label=&logo=discord&logoColor=ffffff&color=5865F2)](https://discord.gg/HXpF69X)
+![GitHub repo size](https://img.shields.io/github/repo-size/AmmarBN/Fitur-7-v1.2.0)
+<img src="https://img.shields.io/github/v/release/AmmarBN/Fitur-7-v1.2.0?include_prereleases"/>
+
+
 ## Instalation Project
 ```shell script
 -pkg update && pkg upgrade
