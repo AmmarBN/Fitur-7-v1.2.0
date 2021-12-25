@@ -24,6 +24,7 @@
 <a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AmmarBN/Fitur-7-v1.2.0?color=red&style=flat-square"></a>
 <a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nurutomo/wabot-aq?color=red&style=flat-square"></a>
 ![](https://img.shields.io/badge/python-2-blue.svg)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 ## Instalation Project
 ```shell script
 -pkg update && pkg upgrade
