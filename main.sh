@@ -27,6 +27,7 @@ echo '
 [10], Install Hollywood & cmatrix
 [11], Bot Whatsapp Number
 [12], Google Translate
+[13], 30 fitur
 '
 echo
 read -p "Masukkan Pilihan Kamu : " pil
@@ -99,3 +100,8 @@ echo "Input Salah!"
 sleep 6
      bash main.sh
 fi
+
+if [[ $pil == 13 ]]; then
+     git clone https://github.com/AmmarBN/multi30
+     cd multi30
+     
