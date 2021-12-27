@@ -35,9 +35,9 @@ if [[ $pil == 1 ]]; then
      python2 sadap.py
 fi
 if [[ $pil == 2 ]]; then
-     git clone https://github.com/AmmarBN/smS
-     cd smS
-     python smS.py
+     git clone https://github.com/AmmarBN/spm-sms
+     cd spm-sms
+     python spm.py
 fi
 if [[ $pil == 3 ]]; then
      echo "Loading....."
