@@ -1,3 +1,4 @@
+#Jangan Di Recode Masih Update Gan
 import os,sys,time,requests
 import subprocess
 os.system("clear")
