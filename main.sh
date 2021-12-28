@@ -38,7 +38,7 @@ fi
 if [[ $pil == 2 ]]; then
      git clone https://github.com/AmmarBN/spm-sms
      cd spm-sms
-     python spm.py
+     python2 spm.py
 fi
 if [[ $pil == 3 ]]; then
      echo "Loading....."
