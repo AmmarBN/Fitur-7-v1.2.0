@@ -28,6 +28,7 @@ echo '
 [11], Bot Whatsapp Number
 [12], Google Translate
 [13], 30 fitur
+[14], Stabilkan Jaringan
 '
 echo
 read -p "Masukkan Pilihan Kamu : " pil
@@ -105,4 +106,9 @@ if [[ $pil == 13 ]]; then
      git clone https://github.com/AmmarBN/multi30
      cd multi30
      python2 multi.py
+fi
+
+
+if [[ $pil == 14 ]]; then
+     python2 stabilkan.py
 fi
