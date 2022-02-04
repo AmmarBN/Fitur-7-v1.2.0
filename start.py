@@ -1,4 +1,7 @@
-import os,sys,time,requests
+try:
+      import os,sys,time,requests
+      except ModuleNotFound:
+             print("Module Belum Terinstall")
 os.system("clear")
 print ("Kamu Belum Login Login Terlebih Dahulu")
 print ("Agar Data Kamu Masuk Ke Database \033[1;93mJumlah Database : \033[1;95m 425 \033[1;90mOrang")
